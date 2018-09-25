@@ -1,0 +1,7 @@
+{
+  "name": "SimpleCalc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
